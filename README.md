@@ -1,4 +1,4 @@
-#Project Title: Stationery Item Management Using Singly Linked List
+## Project Title: Stationery Item Management Using Singly Linked List
 ## Problem Statement:
 To develop a Stationery Item Management System using a Singly Linked List in C++ to manage stationery items, their quantities, and prices. The system allows the user to insert, delete, search, and display items, calculate the total bill, update quantities, and count the total types of items.
 
