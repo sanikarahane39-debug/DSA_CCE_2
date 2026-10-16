@@ -18,11 +18,11 @@ The system provides a menu-driven interface that allows the user to perform diff
 This project helps us understand the practical use of linked lists in data management.
 
 4. Algorithm:
-Step 1: Start the program.
-Step 2: Initialize head = NULL.
-Step 3: Display the main menu with eight options.
-Step 4: Accept the user's choice.
-Step 5: Perform the selected operation:
+1.  Start the program.
+2. Initialize head = NULL.
+3. Display the main menu with eight options.
+4. Accept the user's choice.
+5. Perform the selected operation:
 •	Choice 1: Insert a new stationery item at the end of the linked list.
 •	Choice 2: Delete an item by its name.
 •	Choice 3: Search for an item and display its quantity and price.
@@ -31,14 +31,14 @@ Step 5: Perform the selected operation:
 •	Choice 6: Update the quantity of an existing item.
 •	Choice 7: Count and display the total types of items.
 •	Choice 8: Exit the program.
-Step 6: If the choice is invalid, display an error message.
-Step 7: Repeat the menu until the user selects Exit.
-Step 8: Stop the program.
+6. If the choice is invalid, display an error message.
+7. Repeat the menu until the user selects Exit.
+8.Stop the program.
 
-5. Result:
+6. Result:
 The Stationery Item Management System was implemented successfully using a Singly Linked List in C++. The program performs insertion, deletion, searching, displaying, bill calculation, quantity updating, and item counting operations. It also provides a low-stock alert when the quantity is two or less.
 
-6. Conclusion:
+7. Conclusion:
 This project helped us understand the implementation of a Singly Linked List in C++. It demonstrates how linked lists can be used to store and manage stationery item details dynamically. The system makes item management easier and helps maintain quantity and price information efficiently.
 
 
