@@ -1,8 +1,8 @@
 Project Title: Stationery Item Management Using Singly Linked List
-1. Problem Statement:
+## Problem Statement:
 To develop a Stationery Item Management System using a Singly Linked List in C++ to manage stationery items, their quantities, and prices. The system allows the user to insert, delete, search, and display items, calculate the total bill, update quantities, and count the total types of items.
 
-2. Objectives:
+## Objectives:
 -To understand the concept of a Singly Linked List.
 -To insert new stationery items into the list.
 -To delete and search for specific items.
@@ -11,13 +11,13 @@ To develop a Stationery Item Management System using a Singly Linked List in C++
 -To update item quantities and display low-stock alerts.
 -To count the total types of stationery items.
 
-3. Introduction:
+## Introduction:
 A Singly Linked List is a linear data structure in which each node contains data and a pointer to the next node. The last node points to NULL.
 In this project, a Singly Linked List is used to manage stationery items such as pens, pencils, notebooks, and erasers. Each node stores the item name, quantity, price, and address of the next node.
 The system provides a menu-driven interface that allows the user to perform different operations easily. It also calculates item totals and displays a low-stock alert when the quantity is two or less.
 This project helps us understand the practical use of linked lists in data management.
 
-4. Algorithm:
+## Algorithm:
 step 1.  Start the program.
 step 2. Initialize head = NULL.
 step 3. Display the main menu with eight options.
@@ -35,10 +35,10 @@ step 6. If the choice is invalid, display an error message.
 step 7. Repeat the menu until the user selects Exit.
 step 8.Stop the program.
 
-6. Result:
+## Result:
 The Stationery Item Management System was implemented successfully using a Singly Linked List in C++. The program performs insertion, deletion, searching, displaying, bill calculation, quantity updating, and item counting operations. It also provides a low-stock alert when the quantity is two or less.
 
-7. Conclusion:
+## Conclusion:
 This project helped us understand the implementation of a Singly Linked List in C++. It demonstrates how linked lists can be used to store and manage stationery item details dynamically. The system makes item management easier and helps maintain quantity and price information efficiently.
 
 
